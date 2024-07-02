@@ -8,28 +8,30 @@ Passionate QA Specialist transitioning from R&D with a strong eye for detail and
 * SQL
 * JSON
 * HTML+ CSS
-* Postman
+* [Postman](https://www.postman.com/) - Testing tool for REST API
 * TestRail
 * XML
-* Jira
-* Trello
+* [Jira](https://www.atlassian.com/software/jira0), [Trello](https://trello.com/) - Issue tracking and project management tool for developers
 * Test cases and scenarios
 * Bug reports
 * Black and White-Box Testing
 * Preparing test reports
 * Scrum, Agile
+* [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi?hl=pl) - Exploratory testing assistant for Chrome and Firefox
+* [draw.io](https://app.diagrams.net/) - Flowchart maker and online diagram software
 
-# Courses
+## Courses
 * GoIt QA Engineer
 
-# Certificates
+## Certificates
   - [ISTQB](https://www.gasq.org/en/certification/check-a-certificate.html)
 
 ## My Test Documentation
-* Bug Reports
-* Test Reports
 * Test Cases
-* Test Scenarios
+* Bug Reports
 
 ## My Projects
-* SlimMom
+- Individual project - [SlimMom](https://slimmom-backend.goit.global/api-docs/#/) webapp back-end API testing 
+    - [Test cases](https://docs.google.com/document/d/1cwPYPKIfXphk-UUOdf052yijsMyX39-4ztAoBFH0yzE/edit)
+    - [Report](https://docs.google.com/document/d/1tgP7MO3mcTbXZEpAVjrDJeonm17lqSMTzQUeVLRxUzQ/edit?usp=sharing)
+     
