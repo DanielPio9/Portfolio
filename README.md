@@ -9,9 +9,9 @@ Passionate QA Specialist transitioning from R&D with a strong eye for detail and
 * JSON
 * HTML+ CSS
 * [Postman](https://www.postman.com/) - Testing tool for REST API
-* TestRail
+* [Swagger](https://swagger.io) - API Documentation & Design Tools for Teams
 * XML
-* [Jira](https://www.atlassian.com/software/jira0), [Trello](https://trello.com/) - Issue tracking and project management tool for developers
+* [Jira](https://www.atlassian.com/software/jira0), [Trello](https://trello.com/), [Qase](https://app.qase.io/login?redirectPath=%2Fprojects), [TestRail](https://www.testrail.com) - Issue tracking and project management tools for testers & developers
 * Test cases and scenarios
 * Bug reports
 * Black and White-Box Testing
@@ -31,7 +31,7 @@ Passionate QA Specialist transitioning from R&D with a strong eye for detail and
 * Bug Reports
 
 ## My Projects
-- Individual project - [SlimMom](https://slimmom-backend.goit.global/api-docs/#/) webapp back-end API testing 
+- Group project - [SlimMom](https://slimmoms-qa.netlify.app) - my role was: webapp [Back-end](https://slimmom-backend.goit.global/api-docs/#/) API testing 
     - [Test cases](https://docs.google.com/document/d/1cwPYPKIfXphk-UUOdf052yijsMyX39-4ztAoBFH0yzE/edit)
     - [Report](https://docs.google.com/document/d/1tgP7MO3mcTbXZEpAVjrDJeonm17lqSMTzQUeVLRxUzQ/edit?usp=sharing)
-     
+    - [Checklist](https://docs.google.com/document/d/1Z1-zRjXBSRG0vNwx0hdVkIWtG8NyWBLGOzgn0NiIYig/edit?usp=sharing)
