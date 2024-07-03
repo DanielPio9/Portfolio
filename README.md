@@ -35,3 +35,18 @@ Passionate QA Specialist transitioning from R&D with a strong eye for detail and
     - [Test cases](https://docs.google.com/document/d/1cwPYPKIfXphk-UUOdf052yijsMyX39-4ztAoBFH0yzE/edit)
     - [Report](https://docs.google.com/document/d/1tgP7MO3mcTbXZEpAVjrDJeonm17lqSMTzQUeVLRxUzQ/edit?usp=sharing)
     - [Checklist](https://docs.google.com/document/d/1Z1-zRjXBSRG0vNwx0hdVkIWtG8NyWBLGOzgn0NiIYig/edit?usp=sharing)
+ 
+## Books & Blogs & Websites
+* [Testowanie Oprogramowania](https://pwicherski.gitbook.io)
+* [Jakość projektów informatycznych. Rozwój i testowanie oprogramowania](https://helion.pl/ksiazki/jakosc-projektow-informatycznych-rozwoj-i-testowanie-oprogramowania-karolina-zmitrowicz,zapeja.htm#format/d)
+* [Data science: najseksowniejszy zawód XXI wieku w Polsce. Big data, sztuczna inteligencja i PowerPoint](https://helion.pl/ksiazki/data-science-najseksowniejszy-zawod-xxi-wieku-w-polsce-big-data-sztuczna-inteligencja-i-powerpoin-remigiusz-zulicki,e_3ajn.htm#format/e)
+* [ProGit](https://git-scm.com/book/en/v2)
+* [testerzy.pl](http://testerzy.pl)
+* [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl)
+* [Crossweb](https://crossweb.pl)
+* [Software Testing Help](https://www.softwaretestinghelp.com)
+* [Stack Overflow](https://stackoverflow.com)
+* [W3Schoolds](https://www.w3schools.com)
+* [DataCamp](https://www.datacamp.com)
+* [Postman Learning Center](https://learning.postman.com/docs/tests-and-scripts/write-scripts/test-examples/)
+
