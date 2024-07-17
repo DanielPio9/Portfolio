@@ -3,6 +3,7 @@
 ## About me
 
 Passionate QA Specialist transitioning from R&D (8 yrs of experience) with a strong eye for detail and problem-solving skills. Completed a QA course at GOIT and am eager to apply my knowledge to ensure top-notch product quality. Known for meticulous planning and effective teamwork. Excited to bring my skills to a dynamic team and contribute to delivering high-quality software.
+[LinkedIn](https://www.linkedin.com/in/daniel-pio90/)
 
 ## Tech Stack
 * SQL
