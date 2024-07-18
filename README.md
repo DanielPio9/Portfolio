@@ -23,6 +23,7 @@ Passionate QA Specialist transitioning from R&D (8 yrs of experience) with a str
 
 ## Courses
 * [GoIt QA MANUAL](https://drive.google.com/file/d/1TjUY9DdMKYroo2Lmmx9-PW0YSMcaUTQV/view?usp=sharing)
+* [Google Cloud](https://www.cloudskillsboost.google/public_profiles/d667a1e4-a8b9-4c2a-b180-b37d34352de8)
 
 ## Certificates
   - [ISTQB](https://www.gasq.org/en/certification/check-a-certificate.html)
@@ -61,4 +62,5 @@ Passionate QA Specialist transitioning from R&D (8 yrs of experience) with a str
 * [DataCamp](https://www.datacamp.com)
 * [Postman Learning Center](https://learning.postman.com/docs/tests-and-scripts/write-scripts/test-examples/)
 * [Absolute Beginner (Part 1) Selenium WebDriver for Functional Automation Testing: Your Beginners Guide](https://www.amazon.com/dp/B01ITRPGAE)
+* [SCRUMDAMENTALS VOL 1: A Brief Guide to Understanding Scrum and the Agile Mindset - With a foreword by Dr. Jeff Sutherland, Co-Creator of Scrum](https://www.amazon.com/SCRUMDAMENTALS-VOL-Brief-Understanding-Mindset-ebook/dp/B0CXMTG1V2/ref=sr_1_1?dib=eyJ2IjoiMSJ9.jjy9vB1bllk7MiqsGRD2EQ.FUMCjmzR754ao_2F2NDRTj69soguE3s-VJhZWEa5Hus&dib_tag=se&qid=1721325996&refinements=p_27%3AErnesto+Custodio&s=digital-text&sr=1-1&text=Ernesto+Custodio)
 
