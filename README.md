@@ -24,6 +24,7 @@ Passionate QA Specialist transitioning from R&D (8 yrs of experience) with a str
 ## Courses
 * [GoIt QA MANUAL](https://drive.google.com/file/d/1TjUY9DdMKYroo2Lmmx9-PW0YSMcaUTQV/view?usp=sharing)
 * [Google Cloud](https://www.cloudskillsboost.google/public_profiles/d667a1e4-a8b9-4c2a-b180-b37d34352de8)
+* [udemy](https://www.udemy.com/user/chlorleslaw2019/)
 
 ## Certificates
   - [ISTQB](https://www.gasq.org/en/certification/check-a-certificate.html)
