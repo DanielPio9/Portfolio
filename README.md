@@ -37,10 +37,10 @@ Passionate QA Specialist transitioning from R&D (8 yrs of experience) with a str
   - [Black box tasks](https://docs.google.com/document/d/1ZqnmWgtQfTdYNz3ZCNHkSpAs6tGMALyVkXV-WJ9E0hM/edit?usp=sharing)
   - [White box tasks, creating diagrams](https://docs.google.com/document/d/1lWtDkndCrkgFj7YJZvURZS5uL8r30TdnyEAfXLGWpUQ/edit?usp=sharing)
   - [Qase & Jira TCs & BRs](https://docs.google.com/document/d/1G0JpFmFz17JCj7y1_2xwzsuoE36s-HsFr6QVJ9TAuUY/edit?usp=sharing)
-  - [Devtools Zalando page](https://docs.google.com/document/d/1MFDveCMJGplywl2ihutTQPDJIyASj9wRYoZ7ukcVSuA/edit?usp=sharing)
-  - [API tests of Trello page using Postman](https://docs.google.com/document/d/1LYpTEQ8xB_GGkyZVR98CCUxggiWXO4gUoY_OELClu_M/edit?usp=sharing)
+  - [Devtools on Zalando page](https://docs.google.com/document/d/1MFDveCMJGplywl2ihutTQPDJIyASj9wRYoZ7ukcVSuA/edit?usp=sharing)
+  - [API tests of Trello using Postman](https://docs.google.com/document/d/1LYpTEQ8xB_GGkyZVR98CCUxggiWXO4gUoY_OELClu_M/edit?usp=sharing)
   - [SQL data base tests](https://drive.google.com/drive/folders/1keLZFeuFFfq5D98H-ATO1iOKgBK7vG8Y?usp=sharing)
-  - [MOBILE APP testing Android](https://docs.google.com/document/d/1nRMIE2_YOhDNt0o-Dj9Xjmhyv2hliH-j/edit?usp=sharing&ouid=104297582505921467873&rtpof=true&sd=true), [Bug Reports](https://docs.google.com/document/d/1UW0MyK2alll1xv2l2xmuTmrJCKSCCF0haotltsz2x9E/edit?usp=sharing)
+  - [MOBILE APP testing Android](https://docs.google.com/document/d/1nRMIE2_YOhDNt0o-Dj9Xjmhyv2hliH-j/edit?usp=sharing&ouid=104297582505921467873&rtpof=true&sd=true) - [Bug Reports](https://docs.google.com/document/d/1UW0MyK2alll1xv2l2xmuTmrJCKSCCF0haotltsz2x9E/edit?usp=sharing)
   
 ## My Projects
 - Group project - [SlimMom](https://slimmoms-qa.netlify.app) - my role was: webapp [Back-end](https://slimmom-backend.goit.global/api-docs/#/) API testing 
