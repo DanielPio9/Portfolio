@@ -65,4 +65,5 @@ Passionate QA Specialist transitioning from R&D (8 yrs of experience) with a str
 * [SCRUMDAMENTALS VOL 1: A Brief Guide to Understanding Scrum and the Agile Mindset - With a foreword by Dr. Jeff Sutherland, Co-Creator of Scrum](https://www.amazon.com/SCRUMDAMENTALS-VOL-Brief-Understanding-Mindset-ebook/dp/B0CXMTG1V2/ref=sr_1_1?dib=eyJ2IjoiMSJ9.jjy9vB1bllk7MiqsGRD2EQ.FUMCjmzR754ao_2F2NDRTj69soguE3s-VJhZWEa5Hus&dib_tag=se&qid=1721325996&refinements=p_27%3AErnesto+Custodio&s=digital-text&sr=1-1&text=Ernesto+Custodio)
 * [GURU99](https://www.guru99.com/software-testing.html)
 * [Roadmap.sh](https://roadmap.sh/qa)
+* [Mastering Agile Software Development: A Quality Code, Requirements, and Craftsmanship Guide](https://www.amazon.com/dp/B0CZ414HYV)
 
