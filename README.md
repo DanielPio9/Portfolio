@@ -47,7 +47,10 @@ Passionate QA Specialist transitioning from R&D (8 yrs of experience) with a str
     - [Test cases](https://docs.google.com/document/d/1cwPYPKIfXphk-UUOdf052yijsMyX39-4ztAoBFH0yzE/edit)
     - [Report](https://docs.google.com/document/d/1tgP7MO3mcTbXZEpAVjrDJeonm17lqSMTzQUeVLRxUzQ/edit?usp=sharing)
     - [Checklist](https://docs.google.com/document/d/1Z1-zRjXBSRG0vNwx0hdVkIWtG8NyWBLGOzgn0NiIYig/edit?usp=sharing)
- 
+- Testers community profiles
+    - [uTest](https://www.utest.com/profile/p2049861/about)
+    - [test IO](https://tester.test.io/profile_pages/danielpio)
+  
 ## Books & Blogs & Websites
 * [Testowanie Oprogramowania](https://pwicherski.gitbook.io)
 * [Jakość projektów informatycznych. Rozwój i testowanie oprogramowania](https://helion.pl/ksiazki/jakosc-projektow-informatycznych-rozwoj-i-testowanie-oprogramowania-karolina-zmitrowicz,zapeja.htm#format/d)
@@ -66,4 +69,3 @@ Passionate QA Specialist transitioning from R&D (8 yrs of experience) with a str
 * [GURU99](https://www.guru99.com/software-testing.html)
 * [Roadmap.sh](https://roadmap.sh/qa)
 * [Mastering Agile Software Development: A Quality Code, Requirements, and Craftsmanship Guide](https://www.amazon.com/dp/B0CZ414HYV)
-
