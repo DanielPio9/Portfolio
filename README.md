@@ -21,6 +21,8 @@ Passionate QA Specialist transitioning from R&D (8 yrs of experience) with a str
 * [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi?hl=pl) - Exploratory testing assistant for Chrome and Firefox
 * [draw.io](https://app.diagrams.net/) - Flowchart maker and online diagram software
 * Excel ([My Excel calculations](https://docs.google.com/spreadsheets/d/1YMUs1YyPFO8aJF063sg4ycZ6YhWQqhC-/edit?usp=sharing&ouid=104297582505921467873&rtpof=true&sd=true))
+* Python, Java - basics
+* DevOps
 
 ## Certificates
   - [GoIt QA MANUAL](https://drive.google.com/file/d/1TjUY9DdMKYroo2Lmmx9-PW0YSMcaUTQV/view?usp=sharing)
