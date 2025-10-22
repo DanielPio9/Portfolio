@@ -29,6 +29,7 @@ Passionate QA Specialist transitioning from R&D (8 yrs of experience) with a str
   - [ISTQB® Certified Tester Foundation Level 4.0 N: CTFL4-2024-22698-SJSI](http://scr.istqb.org)
   - [Google Cloud](https://www.cloudskillsboost.google/public_profiles/d667a1e4-a8b9-4c2a-b180-b37d34352de8)
   - [udemy](https://www.udemy.com/user/chlorleslaw2019/)
+  - [Google AI in business development](https://drive.google.com/drive/folders/1vvFYGds3fnLAe_0Otpw8GUoOUnSbnWxv)
 
 ## My Test Documentation
 * Test Cases & Bug Reports
